@@ -18,3 +18,11 @@ This is code insertation with code as text
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+And now to lists in  GitHub
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+  - [ ] This is a sub Item to the list
