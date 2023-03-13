@@ -10,3 +10,11 @@ This is normal text size
 This is the OctoCat image file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+This is code insertation with code as text
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
